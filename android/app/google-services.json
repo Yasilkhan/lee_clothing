@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792985328901",
+    "project_id": "leefashion-aab72",
+    "storage_bucket": "leefashion-aab72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792985328901:android:cc1b2ba5de42d8228deb6c",
+        "android_client_info": {
+          "package_name": "com.example.lee_clothing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkNyWSvKJDYROiILtdiXogHgVBs69dM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
